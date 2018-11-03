@@ -1,4 +1,4 @@
-# design – A2P design and layout templates and description
+# design – A2P design and layout
 
 HEX color: #457E92 or other turquoise shades
 
